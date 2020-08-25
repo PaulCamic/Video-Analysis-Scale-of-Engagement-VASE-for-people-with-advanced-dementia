@@ -1,1 +1,2 @@
 # Video-Analysis-Scale-of-Engagement-VASE-for-people-with-advanced-dementia
+This project seeks to develop a visually-based method of easily assessing engagement in advanced stages of dementia through use of a tablet style computer. Using a 7 point Likert-type vertical measure the observer taps the tablet whenever they assess a change in engagement during a specified social activity. RThe activities we looked at were listening to music and then participating in a musical activity. 
